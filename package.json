@@ -1,0 +1,17 @@
+{
+  "name": "perfomance-observer",
+  "version": "1.0.0",
+  "description": "A simple perfomance-observer for website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "perfomance"
+  ],
+  "author": "Midhun K",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
